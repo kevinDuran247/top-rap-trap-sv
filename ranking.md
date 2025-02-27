@@ -6,6 +6,9 @@
     <th>Nombre</th>
     <th>Popularidad</th>
     <th>Seguidores</th>
+    <th>Género</th>
+    <th>Canción más escuchada</th>
+    <th>Creacion de la cuenta</th>
     <th>Perfil de Spotify</th>
   </tr>
   <tr>
@@ -13,6 +16,9 @@
     <td>Zaki</td>
     <td>24</td>
     <td>10820</td>
+    <td>latin hip hop</td>
+    <td>No disponible</td>
+    <td>Fecha no disponible</td>
     <td><a href="https://open.spotify.com/artist/0JsMrE7jf2ynuVoVXaXxF3" target="_blank">Ir a su Spotify</a></td>
   </tr>
   <tr>
@@ -20,6 +26,9 @@
     <td>Género Supremo</td>
     <td>16</td>
     <td>968</td>
+    <td>mexican hip hop, latin hip hop</td>
+    <td>No disponible</td>
+    <td>Fecha no disponible</td>
     <td><a href="https://open.spotify.com/artist/7Gq0ss88YMxOkKkh7DaKV5" target="_blank">Ir a su Spotify</a></td>
   </tr>
   <tr>
@@ -27,6 +36,9 @@
     <td>ADOBE</td>
     <td>0</td>
     <td>24</td>
+    <td></td>
+    <td>No disponible</td>
+    <td>Fecha no disponible</td>
     <td><a href="https://open.spotify.com/artist/0CJa1b77vpBYM017HMLgAu" target="_blank">Ir a su Spotify</a></td>
   </tr>
 </table>

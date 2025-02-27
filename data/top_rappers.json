@@ -20,7 +20,10 @@
                 "height": 64,
                 "width": 64
             }
-        ]
+        ],
+        "genres": [],
+        "top_track": null,
+        "creation_date": "Fecha no disponible"
     },
     {
         "name": "Zaki",
@@ -43,7 +46,12 @@
                 "height": 160,
                 "width": 160
             }
-        ]
+        ],
+        "genres": [
+            "latin hip hop"
+        ],
+        "top_track": null,
+        "creation_date": "Fecha no disponible"
     },
     {
         "name": "Género Supremo",
@@ -66,6 +74,12 @@
                 "height": 160,
                 "width": 160
             }
-        ]
+        ],
+        "genres": [
+            "mexican hip hop",
+            "latin hip hop"
+        ],
+        "top_track": null,
+        "creation_date": "Fecha no disponible"
     }
 ]
