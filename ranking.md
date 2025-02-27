@@ -1,6 +1,8 @@
 # Top Raperos/Traperos de El Salvador 🎶🇸🇻
 
-Este top nacional esta basado en SPOTIFY. No incluye cuentas de productores solo artistas ya sean solitarios, dupla o grupos.
+Este top nacional esta basado en SPOTIFY. No incluye cuentas de productores solo artistas ya sean solitarios, dupla o grupos. Si deseas aparecer pasame tu ID por mis redes sociales:
+<a href="https://www.facebook.com/KvnDuran" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Instagram_logo_2016.svg" alt="Facebook" style="width:30px;height:30px;margin-right:10px;"></a>
+<a href="https://www.instagram.com/kvn_duran" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/512px-Facebook_f_logo_%282019%29.svg.png" alt="Instagram" style="width:30px;height:30px;margin-left:10px;"></a>
 <table>
   <tr>
     <th>Foto de Perfil</th>
