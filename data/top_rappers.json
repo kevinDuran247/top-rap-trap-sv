@@ -81,5 +81,31 @@
         ],
         "top_track": null,
         "creation_date": "Fecha no disponible"
+    },
+    {
+        "name": "FUNDAMENRAP",
+        "popularity": 0,
+        "followers_total": 65,
+        "spotify_url": "https://open.spotify.com/artist/1BidZUckyWcn6zqbhl0lhm",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273756d0efbe2f0d45bd84627cf",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02756d0efbe2f0d45bd84627cf",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851756d0efbe2f0d45bd84627cf",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "genres": [],
+        "top_track": null,
+        "creation_date": "Fecha no disponible"
     }
 ]

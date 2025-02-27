@@ -32,6 +32,16 @@
     <td><a href="https://open.spotify.com/artist/7Gq0ss88YMxOkKkh7DaKV5" target="_blank">Ir a su Spotify</a></td>
   </tr>
   <tr>
+    <td><img src="https://i.scdn.co/image/ab67616d0000b273756d0efbe2f0d45bd84627cf" alt="FUNDAMENRAP" width="100"></td>
+    <td>FUNDAMENRAP</td>
+    <td>0</td>
+    <td>65</td>
+    <td></td>
+    <td>No disponible</td>
+    <td>Fecha no disponible</td>
+    <td><a href="https://open.spotify.com/artist/1BidZUckyWcn6zqbhl0lhm" target="_blank">Ir a su Spotify</a></td>
+  </tr>
+  <tr>
     <td><img src="https://i.scdn.co/image/ab67616d0000b27368c02035c0584b45f23cc02b" alt="ADOBE" width="100"></td>
     <td>ADOBE</td>
     <td>0</td>
