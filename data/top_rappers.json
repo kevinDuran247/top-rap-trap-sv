@@ -1,0 +1,71 @@
+[
+    {
+        "name": "ADOBE",
+        "popularity": 0,
+        "followers_total": 24,
+        "spotify_url": "https://open.spotify.com/artist/0CJa1b77vpBYM017HMLgAu",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b27368c02035c0584b45f23cc02b",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e0268c02035c0584b45f23cc02b",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000485168c02035c0584b45f23cc02b",
+                "height": 64,
+                "width": 64
+            }
+        ]
+    },
+    {
+        "name": "Zaki",
+        "popularity": 24,
+        "followers_total": 10820,
+        "spotify_url": "https://open.spotify.com/artist/0JsMrE7jf2ynuVoVXaXxF3",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebb1a81462912a595e301fc824",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174b1a81462912a595e301fc824",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178b1a81462912a595e301fc824",
+                "height": 160,
+                "width": 160
+            }
+        ]
+    },
+    {
+        "name": "Género Supremo",
+        "popularity": 16,
+        "followers_total": 968,
+        "spotify_url": "https://open.spotify.com/artist/7Gq0ss88YMxOkKkh7DaKV5",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb942b0ce9530888ac0fb73d94",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174942b0ce9530888ac0fb73d94",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178942b0ce9530888ac0fb73d94",
+                "height": 160,
+                "width": 160
+            }
+        ]
+    }
+]
