@@ -1,6 +1,6 @@
 # 🎶 Top Raperos/Traperos de El Salvador
 
-![Top Artistas de El Salvador](top-artistas.png)
+![Top Artistas de El Salvador](portada.jpg)
 
 Este proyecto presenta un ranking de los principales artistas de rap y trap en El Salvador, basado en datos obtenidos directamente desde la API de Spotify. El objetivo es destacar a los talentos locales y mostrar información como su popularidad, cantidad de seguidores y enlace directo a su perfil en Spotify.
 
