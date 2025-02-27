@@ -15,12 +15,6 @@ def generate_markdown(artists, output_file):
         f.write('Este top nacional esta basado en SPOTIFY. No incluye cuentas de productores solo artistas ya sean solitarios, dupla o grupos. Si deseas aparecer pasame tu ID por mis redes sociales:\n')
         f.write('<a href="https://www.facebook.com/KvnDuran" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/017/221/797/large_2x/facebook-logo-transparent-background-free-png.png" alt="Facebook" style="width:30px;height:30px;margin-right:10px;">Kvn Durán</a>\n')
         f.write('<a href="https://www.instagram.com/kvn_duran" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/017/743/717/large_2x/instagram-icon-logo-free-png.png" alt="Instagram" style="width:30px;height:30px;margin-left:10px;">@kvn_duran</a>\n')
-        f.write('<style>\n')
-        f.write('  .gold { background-color: rgba(255, 215, 0, 0.3); }\n')  # Oro con transparencia
-        f.write('  .silver { background-color: rgba(192, 192, 192, 0.3); }\n')  # Plata con transparencia
-        f.write('  .bronze { background-color: rgba(205, 127, 50, 0.3); }\n')  # Bronce con transparencia
-        f.write('  .soft-bronze { background-color: rgba(205, 127, 50, 0.1); }\n')  # Bronce más tenue
-        f.write('</style>\n')
         f.write('<table>\n')
         f.write('  <tr>\n')
         f.write('    <th>Top</th>\n')
@@ -40,19 +34,19 @@ def generate_markdown(artists, output_file):
             image_url = artist['images'][0]['url']  # Tomamos la imagen de mayor calidad
             genres = ', '.join(artist['genres'])  # Géneros del artista
 
-            # Asignar clase CSS según el puesto
+            # Asignar estilo según el puesto
             if index == 1:
-                row_class = 'gold'
+                row_style = 'background-color: rgba(255, 215, 0, 0.3);'  # Oro
             elif index == 2:
-                row_class = 'silver'
+                row_style = 'background-color: rgba(192, 192, 192, 0.3);'  # Plata
             elif index == 3:
-                row_class = 'bronze'
+                row_style = 'background-color: rgba(205, 127, 50, 0.3);'  # Bronce
             elif 4 <= index <= 10:
-                row_class = 'soft-bronze'
+                row_style = 'background-color: rgba(205, 127, 50, 0.1);'  # Bronce más tenue
             else:
-                row_class = ''  # Sin estilo para puestos mayores a 10
+                row_style = ''  # Sin estilo para puestos mayores a 10
 
-            f.write(f'  <tr class="{row_class}">\n')  # Aplicar clase CSS a la fila
+            f.write(f'  <tr style="{row_style}">\n')  # Aplicar estilo inline
             f.write(f'    <td>{index}</td>\n')
             f.write(f'    <td><img src="{image_url}" alt="{name}" width="100"></td>\n')
             f.write(f'    <td>{name}</td>\n')
