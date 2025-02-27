@@ -18,7 +18,17 @@ artist_ids = [
     '3Fzx6lDy4x8VFhPsu3LVuD',
     '1HY2aGDLtIADXBkpiyTbyH',
     '2zUs5mMJkZwn0XKHKglBME',
-    '2vBCXtOB46hkU6YvLtSVz2'
+    '2vBCXtOB46hkU6YvLtSVz2',
+    '595vJ3WnQb5qAbifBAS8UQ',
+    '2IBiHiiKi0YFt77E0gEyAm',
+    '7mwHFG3zdvlFphf1CXFwWf',
+    '3QvLhQoURAFBZjNnOAgjzl',
+    '7FARTpburrayzgBudPcQTB',
+    '3Bqi9hqSNMPoicjvz8j2jm',
+    '2bJN3vGQsLrGqgzwRMluQY',
+    '6KOSNc6cyaAjs7hh379tZ2',
+    '6j2N8MgI7tFi4SwUIFevQ9',
+    '31wtY2T6lHi77pV9RsVTqm'
 ]
 
 # Autenticación y obtención de token de acceso

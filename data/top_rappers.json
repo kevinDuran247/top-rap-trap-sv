@@ -199,5 +199,247 @@
             }
         ],
         "genres": []
+    },
+    {
+        "name": "Rafael Vinz",
+        "popularity": 1,
+        "followers_total": 172,
+        "spotify_url": "https://open.spotify.com/artist/595vJ3WnQb5qAbifBAS8UQ",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb6444ea66fd9e5f8620df4e7c",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051746444ea66fd9e5f8620df4e7c",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1786444ea66fd9e5f8620df4e7c",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "genres": []
+    },
+    {
+        "name": "Maiktro del Flava",
+        "popularity": 0,
+        "followers_total": 6,
+        "spotify_url": "https://open.spotify.com/artist/2IBiHiiKi0YFt77E0gEyAm",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b2738242be7ff7f377cfc224b401",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e028242be7ff7f377cfc224b401",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d000048518242be7ff7f377cfc224b401",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "genres": []
+    },
+    {
+        "name": "drovekidd",
+        "popularity": 8,
+        "followers_total": 1162,
+        "spotify_url": "https://open.spotify.com/artist/7mwHFG3zdvlFphf1CXFwWf",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb1a3f273831d32c84e5970ea4",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051741a3f273831d32c84e5970ea4",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1781a3f273831d32c84e5970ea4",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "genres": []
+    },
+    {
+        "name": "Hip Hop femenino El Salvador",
+        "popularity": 0,
+        "followers_total": 36,
+        "spotify_url": "https://open.spotify.com/artist/3QvLhQoURAFBZjNnOAgjzl",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273ac6cad8e4427f2eaa67ef668",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02ac6cad8e4427f2eaa67ef668",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851ac6cad8e4427f2eaa67ef668",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "genres": []
+    },
+    {
+        "name": "SteMen Aguilar",
+        "popularity": 0,
+        "followers_total": 14,
+        "spotify_url": "https://open.spotify.com/artist/7FARTpburrayzgBudPcQTB",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb3a2d6eee3d0b9b8e830b867b",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051743a2d6eee3d0b9b8e830b867b",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1783a2d6eee3d0b9b8e830b867b",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "genres": []
+    },
+    {
+        "name": "Decer Mata",
+        "popularity": 0,
+        "followers_total": 86,
+        "spotify_url": "https://open.spotify.com/artist/3Bqi9hqSNMPoicjvz8j2jm",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273560f16b9f2a860b714675403",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02560f16b9f2a860b714675403",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851560f16b9f2a860b714675403",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "genres": []
+    },
+    {
+        "name": "Paxhet",
+        "popularity": 0,
+        "followers_total": 22,
+        "spotify_url": "https://open.spotify.com/artist/2bJN3vGQsLrGqgzwRMluQY",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273ff219dc8ebedd46f43a262bf",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02ff219dc8ebedd46f43a262bf",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851ff219dc8ebedd46f43a262bf",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "genres": []
+    },
+    {
+        "name": "Nawilía",
+        "popularity": 0,
+        "followers_total": 121,
+        "spotify_url": "https://open.spotify.com/artist/6KOSNc6cyaAjs7hh379tZ2",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb0fe9de43f03502ff1084c784",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051740fe9de43f03502ff1084c784",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1780fe9de43f03502ff1084c784",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "genres": []
+    },
+    {
+        "name": "Pescozada",
+        "popularity": 17,
+        "followers_total": 3879,
+        "spotify_url": "https://open.spotify.com/artist/6j2N8MgI7tFi4SwUIFevQ9",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebdaa2eeaaf816109a49983090",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174daa2eeaaf816109a49983090",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178daa2eeaaf816109a49983090",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "genres": [
+            "latin hip hop"
+        ]
+    },
+    {
+        "name": "Souryn",
+        "popularity": 22,
+        "followers_total": 2116,
+        "spotify_url": "https://open.spotify.com/artist/31wtY2T6lHi77pV9RsVTqm",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb147db32afb8f9594707b3e8c",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174147db32afb8f9594707b3e8c",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178147db32afb8f9594707b3e8c",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "genres": []
     }
 ]
