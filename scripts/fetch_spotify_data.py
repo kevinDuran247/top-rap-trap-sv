@@ -46,30 +46,18 @@ def save_artists_info(token, artist_ids):
         # Obtener el género del artista
         genres = artist_data.get('genres', [])
         
-        # Obtener la canción más escuchada (Top Track)
-        top_track = artist_data.get('tracks', [])[0] if 'tracks' in artist_data else None
-        top_track_name = top_track.get('name') if top_track else None
-        
-        # Obtener la fecha de creación del artista (esto puede estar disponible dependiendo de la API)
-        # Spotify no proporciona directamente la fecha de creación del artista, pero se puede aproximar
-        # a través del primer álbum o el primer track en su historial.
-        creation_date = artist_data.get('followers', {}).get('created_at', 'Fecha no disponible')
-        
         info = {
             'name': artist_data.get('name'),
             'popularity': artist_data.get('popularity'),
             'followers_total': artist_data['followers'].get('total'),
             'spotify_url': artist_data['external_urls'].get('spotify'),
             'images': artist_data.get('images'),
-            'genres': genres,
-            'top_track': top_track_name,
-            'creation_date': creation_date
+            'genres': genres
         }
         artists_info.append(info)
 
     with open('../data/top_rappers.json', 'w', encoding='utf-8') as f:
         json.dump(artists_info, f, indent=4, ensure_ascii=False)
-
 
 if __name__ == '__main__':
     token = get_spotify_token()

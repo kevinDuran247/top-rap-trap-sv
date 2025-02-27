@@ -18,9 +18,7 @@ def generate_markdown(artists, output_file):
         f.write('    <th>Nombre</th>\n')
         f.write('    <th>Popularidad</th>\n')
         f.write('    <th>Seguidores</th>\n')
-        f.write('    <th>Género</th>\n')  # Nueva columna para el género
-        f.write('    <th>Canción más escuchada</th>\n')  # Nueva columna para la canción más escuchada
-        f.write('    <th>Creacion de la cuenta</th>\n')  # Nueva columna para la fecha de creación
+        f.write('    <th>Género</th>\n')  # Nueva columna para el géneron
         f.write('    <th>Perfil de Spotify</th>\n')
         f.write('  </tr>\n')
 
@@ -31,8 +29,6 @@ def generate_markdown(artists, output_file):
             spotify_url = artist['spotify_url']
             image_url = artist['images'][0]['url']  # Tomamos la imagen de mayor calidad
             genres = ', '.join(artist['genres'])  # Géneros del artista
-            top_track = artist['top_track'] if artist['top_track'] else 'No disponible'  # Canción más escuchada
-            creation_date = artist['creation_date']  # Fecha de creación del artista
 
             f.write('  <tr>\n')
             f.write(f'    <td><img src="{image_url}" alt="{name}" width="100"></td>\n')  # Foto de perfil
@@ -40,8 +36,6 @@ def generate_markdown(artists, output_file):
             f.write(f'    <td>{popularity}</td>\n')
             f.write(f'    <td>{followers}</td>\n')
             f.write(f'    <td>{genres}</td>\n')  # Género
-            f.write(f'    <td>{top_track}</td>\n')  # Canción más escuchada
-            f.write(f'    <td>{creation_date}</td>\n')  # Fecha de creación
             f.write(f'    <td><a href="{spotify_url}" target="_blank">Ir a su Spotify</a></td>\n')
             f.write('  </tr>\n')
 

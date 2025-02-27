@@ -21,9 +21,7 @@
                 "width": 64
             }
         ],
-        "genres": [],
-        "top_track": null,
-        "creation_date": "Fecha no disponible"
+        "genres": []
     },
     {
         "name": "Zaki",
@@ -49,9 +47,7 @@
         ],
         "genres": [
             "latin hip hop"
-        ],
-        "top_track": null,
-        "creation_date": "Fecha no disponible"
+        ]
     },
     {
         "name": "Género Supremo",
@@ -78,9 +74,7 @@
         "genres": [
             "mexican hip hop",
             "latin hip hop"
-        ],
-        "top_track": null,
-        "creation_date": "Fecha no disponible"
+        ]
     },
     {
         "name": "FUNDAMENRAP",
@@ -104,8 +98,6 @@
                 "width": 64
             }
         ],
-        "genres": [],
-        "top_track": null,
-        "creation_date": "Fecha no disponible"
+        "genres": []
     }
 ]
