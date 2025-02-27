@@ -15,6 +15,8 @@ def generate_markdown(artists, output_file):
         f.write('Este top nacional esta basado en SPOTIFY. No incluye cuentas de productores solo artistas ya sean solitarios, dupla o grupos. Si deseas aparecer pasame tu ID por mis redes sociales:\n')
         f.write('<a href="https://www.facebook.com/KvnDuran" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/017/221/797/large_2x/facebook-logo-transparent-background-free-png.png" alt="Facebook" style="width:30px;height:30px;margin-right:10px;">Kvn Durán</a>\n')
         f.write('<a href="https://www.instagram.com/kvn_duran" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/017/743/717/large_2x/instagram-icon-logo-free-png.png" alt="Instagram" style="width:30px;height:30px;margin-left:10px;">@kvn_duran</a>\n')
+        f.write('Tambien puedes resgistrarte aca: \n')
+        f.write('<a href="https://forms.gle/FadNKXLdxDQTt7Sa6" target="_blank">></a>\n')
         f.write('<table>\n')
         f.write('  <tr>\n')
         f.write('    <th>Top</th>\n')
