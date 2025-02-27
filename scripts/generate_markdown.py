@@ -13,8 +13,8 @@ def generate_markdown(artists, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write('# Top Raperos/Traperos de El Salvador 🎶🇸🇻\n\n')
         f.write('Este top nacional esta basado en SPOTIFY. No incluye cuentas de productores solo artistas ya sean solitarios, dupla o grupos. Si deseas aparecer pasame tu ID por mis redes sociales:\n')
-        f.write('<a href="https://www.facebook.com/KvnDuran" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Instagram_logo_2016.svg" alt="Facebook" style="width:30px;height:30px;margin-right:10px;"></a>\n')
-        f.write('<a href="https://www.instagram.com/kvn_duran" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/512px-Facebook_f_logo_%282019%29.svg.png" alt="Instagram" style="width:30px;height:30px;margin-left:10px;"></a>\n')
+        f.write('<a href="https://www.facebook.com/KvnDuran" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/017/221/797/large_2x/facebook-logo-transparent-background-free-png.png" alt="Facebook" style="width:30px;height:30px;margin-right:10px;">Kvn Durán</a>\n')
+        f.write('<a href="https://www.instagram.com/kvn_duran" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/017/743/717/large_2x/instagram-icon-logo-free-png.png" alt="Instagram" style="width:30px;height:30px;margin-left:10px;">@kvn_duran</a>\n')
         f.write('<table>\n')
         f.write('  <tr>\n')
         f.write('    <th>Foto de Perfil</th>\n')  # Nueva columna para la foto antes del nombre
