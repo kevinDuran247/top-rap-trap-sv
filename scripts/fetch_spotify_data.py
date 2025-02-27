@@ -28,7 +28,10 @@ artist_ids = [
     '2bJN3vGQsLrGqgzwRMluQY',
     '6KOSNc6cyaAjs7hh379tZ2',
     '6j2N8MgI7tFi4SwUIFevQ9',
-    '31wtY2T6lHi77pV9RsVTqm'
+    '31wtY2T6lHi77pV9RsVTqm',
+    '0UAIIh73CQD17fYsdLgWNJ',
+    '5fzx5J5x9xhLXWq3tauDdS',
+    '2O0Z4olTukHI0zxHvdXk8z',
 ]
 
 # Autenticación y obtención de token de acceso

@@ -26,7 +26,7 @@
     {
         "name": "Zaki",
         "popularity": 24,
-        "followers_total": 10820,
+        "followers_total": 10821,
         "spotify_url": "https://open.spotify.com/artist/0JsMrE7jf2ynuVoVXaXxF3",
         "images": [
             {
@@ -52,7 +52,7 @@
     {
         "name": "Género Supremo",
         "popularity": 16,
-        "followers_total": 968,
+        "followers_total": 969,
         "spotify_url": "https://open.spotify.com/artist/7Gq0ss88YMxOkKkh7DaKV5",
         "images": [
             {
@@ -103,7 +103,7 @@
     {
         "name": "Young Reos",
         "popularity": 6,
-        "followers_total": 864,
+        "followers_total": 865,
         "spotify_url": "https://open.spotify.com/artist/3Fzx6lDy4x8VFhPsu3LVuD",
         "images": [
             {
@@ -155,7 +155,7 @@
     {
         "name": "El Travieso",
         "popularity": 34,
-        "followers_total": 28341,
+        "followers_total": 28352,
         "spotify_url": "https://open.spotify.com/artist/2zUs5mMJkZwn0XKHKglBME",
         "images": [
             {
@@ -251,7 +251,7 @@
     {
         "name": "drovekidd",
         "popularity": 8,
-        "followers_total": 1162,
+        "followers_total": 1163,
         "spotify_url": "https://open.spotify.com/artist/7mwHFG3zdvlFphf1CXFwWf",
         "images": [
             {
@@ -421,7 +421,7 @@
     {
         "name": "Souryn",
         "popularity": 22,
-        "followers_total": 2116,
+        "followers_total": 2124,
         "spotify_url": "https://open.spotify.com/artist/31wtY2T6lHi77pV9RsVTqm",
         "images": [
             {
@@ -441,5 +441,65 @@
             }
         ],
         "genres": []
+    },
+    {
+        "name": "Luigui Doze",
+        "popularity": 0,
+        "followers_total": 222,
+        "spotify_url": "https://open.spotify.com/artist/0UAIIh73CQD17fYsdLgWNJ",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebe03a19bacc3c783836a30c30",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174e03a19bacc3c783836a30c30",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178e03a19bacc3c783836a30c30",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "genres": [
+            "latin hip hop"
+        ]
+    },
+    {
+        "name": "carbajal mv",
+        "popularity": 0,
+        "followers_total": 6,
+        "spotify_url": "https://open.spotify.com/artist/5fzx5J5x9xhLXWq3tauDdS",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273e6563d5fd9e81b583029eec1",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02e6563d5fd9e81b583029eec1",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851e6563d5fd9e81b583029eec1",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "genres": []
+    },
+    {
+        "name": "ODIL",
+        "popularity": 0,
+        "followers_total": 2,
+        "spotify_url": "https://open.spotify.com/artist/2O0Z4olTukHI0zxHvdXk8z",
+        "images": [],
+        "genres": [
+            "freestyle"
+        ]
     }
 ]
