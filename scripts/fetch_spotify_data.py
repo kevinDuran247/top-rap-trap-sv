@@ -14,7 +14,11 @@ artist_ids = [
     '0CJa1b77vpBYM017HMLgAu',
     '0JsMrE7jf2ynuVoVXaXxF3',
     '7Gq0ss88YMxOkKkh7DaKV5',
-    '1BidZUckyWcn6zqbhl0lhm'
+    '1BidZUckyWcn6zqbhl0lhm',
+    '3Fzx6lDy4x8VFhPsu3LVuD',
+    '1HY2aGDLtIADXBkpiyTbyH',
+    '2zUs5mMJkZwn0XKHKglBME',
+    '2vBCXtOB46hkU6YvLtSVz2'
 ]
 
 # Autenticación y obtención de token de acceso

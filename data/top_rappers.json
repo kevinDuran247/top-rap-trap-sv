@@ -99,5 +99,105 @@
             }
         ],
         "genres": []
+    },
+    {
+        "name": "Young Reos",
+        "popularity": 6,
+        "followers_total": 864,
+        "spotify_url": "https://open.spotify.com/artist/3Fzx6lDy4x8VFhPsu3LVuD",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb9ac77942e760d8bd72909a3c",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051749ac77942e760d8bd72909a3c",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1789ac77942e760d8bd72909a3c",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "genres": [
+            "latin hip hop"
+        ]
+    },
+    {
+        "name": "Oneime",
+        "popularity": 7,
+        "followers_total": 677,
+        "spotify_url": "https://open.spotify.com/artist/1HY2aGDLtIADXBkpiyTbyH",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb46662a77dfc7f8bf2fd8012b",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517446662a77dfc7f8bf2fd8012b",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17846662a77dfc7f8bf2fd8012b",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "genres": [
+            "latin hip hop"
+        ]
+    },
+    {
+        "name": "El Travieso",
+        "popularity": 34,
+        "followers_total": 28341,
+        "spotify_url": "https://open.spotify.com/artist/2zUs5mMJkZwn0XKHKglBME",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb808fbe27e0dfa4d93c28a213",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174808fbe27e0dfa4d93c28a213",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178808fbe27e0dfa4d93c28a213",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "genres": []
+    },
+    {
+        "name": "Pericoide",
+        "popularity": 0,
+        "followers_total": 25,
+        "spotify_url": "https://open.spotify.com/artist/2vBCXtOB46hkU6YvLtSVz2",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273fcff1e8de3f8f7783bfff89a",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02fcff1e8de3f8f7783bfff89a",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851fcff1e8de3f8f7783bfff89a",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "genres": []
     }
 ]
