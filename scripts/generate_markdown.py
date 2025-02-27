@@ -12,6 +12,7 @@ def generate_markdown(artists, output_file):
 
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write('# Top Raperos/Traperos de El Salvador 🎶🇸🇻\n\n')
+        f.write('Este top nacional esta basado en SPOTIFY. No incluye cuentas de productores solo artistas ya sean solitarios, dupla o grupos.\n')
         f.write('<table>\n')
         f.write('  <tr>\n')
         f.write('    <th>Foto de Perfil</th>\n')  # Nueva columna para la foto antes del nombre

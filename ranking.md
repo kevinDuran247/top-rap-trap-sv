@@ -1,5 +1,6 @@
 # Top Raperos/Traperos de El Salvador 🎶🇸🇻
 
+Este top nacional esta basado en SPOTIFY. No incluye cuentas de productores solo artistas ya sean solitarios, dupla o grupos.
 <table>
   <tr>
     <th>Foto de Perfil</th>
