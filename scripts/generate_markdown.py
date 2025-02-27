@@ -34,20 +34,20 @@ def generate_markdown(artists, output_file):
             image_url = artist['images'][0]['url']  # Tomamos la imagen de mayor calidad
             genres = ', '.join(artist['genres'])  # Géneros del artista
 
-            # Asignar estilo según el puesto
+            # Asignar emoji según el puesto
             if index == 1:
-                row_style = 'background-color: rgba(255, 215, 0, 0.3);'  # Oro
+                top_emoji = '🥇'
             elif index == 2:
-                row_style = 'background-color: rgba(192, 192, 192, 0.3);'  # Plata
+                top_emoji = '🥈'
             elif index == 3:
-                row_style = 'background-color: rgba(205, 127, 50, 0.3);'  # Bronce
+                top_emoji = '🥉'
             elif 4 <= index <= 10:
-                row_style = 'background-color: rgba(205, 127, 50, 0.1);'  # Bronce más tenue
+                top_emoji = '🔹'
             else:
-                row_style = ''  # Sin estilo para puestos mayores a 10
+                top_emoji = ''
 
-            f.write(f'  <tr style="{row_style}">\n')  # Aplicar estilo inline
-            f.write(f'    <td>{index}</td>\n')
+            f.write('  <tr>\n')
+            f.write(f'    <td>{top_emoji} {index}</td>\n')  # Agregar emoji al puesto
             f.write(f'    <td><img src="{image_url}" alt="{name}" width="100"></td>\n')
             f.write(f'    <td>{name}</td>\n')
             f.write(f'    <td>{popularity}</td>\n')
