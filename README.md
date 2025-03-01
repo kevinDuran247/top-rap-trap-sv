@@ -9,7 +9,7 @@ Este proyecto presenta un ranking de los principales artistas de rap y trap en E
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/spotify-top-artists.git
+git clone https://github.com/tu-usuario/top-rap-trap-sv
 ```
 
 ### 2. Configurar las credenciales de la API de Spotify
