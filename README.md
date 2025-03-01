@@ -10,22 +10,9 @@ Este proyecto presenta un ranking de los principales artistas de rap y trap en E
 ### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/tu-usuario/spotify-top-artists.git
-cd spotify-top-artists
 ```
 
-### 2. Crear un entorno virtual (opcional pero recomendado)
-```bash
-python -m venv venv
-source venv/bin/activate   # Linux / Mac
-venv\Scripts\activate     # Windows
-```
-
-### 3. Instalar dependencias
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Configurar las credenciales de la API de Spotify
+### 2. Configurar las credenciales de la API de Spotify
 Crea un archivo `.env` en la raíz del proyecto:
 ```env
 SPOTIFY_CLIENT_ID=tu_client_id_aqui
