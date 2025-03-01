@@ -2,7 +2,7 @@
     {
         "name": "ADOBE",
         "popularity": 0,
-        "followers_total": 24,
+        "followers_total": 25,
         "spotify_url": "https://open.spotify.com/artist/0CJa1b77vpBYM017HMLgAu",
         "images": [
             {
@@ -26,7 +26,7 @@
     {
         "name": "Zaki",
         "popularity": 24,
-        "followers_total": 10821,
+        "followers_total": 10822,
         "spotify_url": "https://open.spotify.com/artist/0JsMrE7jf2ynuVoVXaXxF3",
         "images": [
             {
@@ -102,7 +102,7 @@
     },
     {
         "name": "Young Reos",
-        "popularity": 6,
+        "popularity": 8,
         "followers_total": 865,
         "spotify_url": "https://open.spotify.com/artist/3Fzx6lDy4x8VFhPsu3LVuD",
         "images": [
@@ -155,7 +155,7 @@
     {
         "name": "El Travieso",
         "popularity": 34,
-        "followers_total": 28352,
+        "followers_total": 28372,
         "spotify_url": "https://open.spotify.com/artist/2zUs5mMJkZwn0XKHKglBME",
         "images": [
             {
@@ -395,7 +395,7 @@
     {
         "name": "Pescozada",
         "popularity": 17,
-        "followers_total": 3879,
+        "followers_total": 3881,
         "spotify_url": "https://open.spotify.com/artist/6j2N8MgI7tFi4SwUIFevQ9",
         "images": [
             {
@@ -421,7 +421,7 @@
     {
         "name": "Souryn",
         "popularity": 22,
-        "followers_total": 2124,
+        "followers_total": 2130,
         "spotify_url": "https://open.spotify.com/artist/31wtY2T6lHi77pV9RsVTqm",
         "images": [
             {
@@ -469,37 +469,101 @@
         ]
     },
     {
-        "name": "carbajal mv",
-        "popularity": 0,
-        "followers_total": 6,
-        "spotify_url": "https://open.spotify.com/artist/5fzx5J5x9xhLXWq3tauDdS",
+        "name": "Carbajal",
+        "popularity": 3,
+        "followers_total": 63,
+        "spotify_url": "https://open.spotify.com/artist/0wCKvJvvyK4EOrgvZyx9oy",
         "images": [
             {
-                "url": "https://i.scdn.co/image/ab67616d0000b273e6563d5fd9e81b583029eec1",
+                "url": "https://i.scdn.co/image/ab6761610000e5ebb5a8d7a7a0a0600c496dffbd",
                 "height": 640,
                 "width": 640
             },
             {
-                "url": "https://i.scdn.co/image/ab67616d00001e02e6563d5fd9e81b583029eec1",
-                "height": 300,
-                "width": 300
+                "url": "https://i.scdn.co/image/ab67616100005174b5a8d7a7a0a0600c496dffbd",
+                "height": 320,
+                "width": 320
             },
             {
-                "url": "https://i.scdn.co/image/ab67616d00004851e6563d5fd9e81b583029eec1",
-                "height": 64,
-                "width": 64
+                "url": "https://i.scdn.co/image/ab6761610000f178b5a8d7a7a0a0600c496dffbd",
+                "height": 160,
+                "width": 160
             }
         ],
         "genres": []
     },
     {
-        "name": "ODIL",
-        "popularity": 0,
-        "followers_total": 2,
-        "spotify_url": "https://open.spotify.com/artist/2O0Z4olTukHI0zxHvdXk8z",
-        "images": [],
+        "name": "Hiillboyz",
+        "popularity": 5,
+        "followers_total": 154,
+        "spotify_url": "https://open.spotify.com/artist/7kJGq5hm5SMpfGLRKMRRnc",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb71656cb0ae6005e49f229884",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517471656cb0ae6005e49f229884",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17871656cb0ae6005e49f229884",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "genres": []
+    },
+    {
+        "name": "Akaski (The Smokid)",
+        "popularity": 1,
+        "followers_total": 74,
+        "spotify_url": "https://open.spotify.com/artist/0g1yfxUTRs6rarF6bkVzJv",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebb4def58e418b653d1911356f",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174b4def58e418b653d1911356f",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178b4def58e418b653d1911356f",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "genres": []
+    },
+    {
+        "name": "Cleanton",
+        "popularity": 1,
+        "followers_total": 181,
+        "spotify_url": "https://open.spotify.com/artist/44Sj5j3G7cUtG2jENgnLPK",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebbc25fbfddffd31a631d79ed3",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174bc25fbfddffd31a631d79ed3",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178bc25fbfddffd31a631d79ed3",
+                "height": 160,
+                "width": 160
+            }
+        ],
         "genres": [
-            "freestyle"
+            "boom bap"
         ]
     }
 ]
